@@ -1,0 +1,3 @@
+rootProject.name = 'udemyanimations'
+
+include ':app'
